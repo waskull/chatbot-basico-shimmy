@@ -19,7 +19,7 @@ Y enviar este JSON:
   "password":"1234",
 }
 ```
-Luego hacer una peticion POST al endpoint [http://localhost:8000/api/chatbot/](http://localhost:8000/api/chatbot/)
+Colocar el access_token en los headers, luego hacer una peticion POST al endpoint [http://localhost:8000/api/chatbot/](http://localhost:8000/api/chatbot/)
 
 con el siguiente JSON:
 ```json
