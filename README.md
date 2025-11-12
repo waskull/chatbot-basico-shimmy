@@ -26,3 +26,5 @@ con el siguiente JSON:
   "modelo":"gemma-3-1b-it-Q8_0"
 }
 ```
+
+![Yaak (Peticion POST con Yaak)](/imagenes/yaak.png)
