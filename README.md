@@ -1,11 +1,11 @@
-# Instrucciones para usar [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy)
+# Instrucciones para correr el proyecto usando [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy)
 
 ## Descargar modelo en formato .gguf.
 Puede ser: [Gemma 3 1B](https://huggingface.co/ggml-org/gemma-3-1b-it-GGUF/resolve/main/gemma-3-1b-it-Q8_0.gguf?download=true)
 
 crear una carpeta llamada models dentro del directorio que contiene el shimmy.exe luego colocar el modelo descargado en la carpeta models
 
-# Situarse en la carpeta donde descomprimieron el repositorio y escribir en el cmd:
+# Situarse en la carpeta donde esta el shimmy.exe el repositorio y escribir en el cmd:
 <code>shimmy.exe serve --bind 0.0.0.0:11434</code>
 
 ![Shimmy (Levantando Servidor Shimmy)](/imagenes/shimmy.png)
